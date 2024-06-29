@@ -26,16 +26,3 @@ Before running the application, ensure you have the following installed:
    git clone https://github.com/JagadeeshPadam/Smart-Vision-QA.git
    cd Smart-Vision-QA
 
-## Folder Structure
-
-Smart-Vision-QA/
-│
-├── app.py                # Main application file
-├── config.py             # Configuration file (contains API key)
-├── API.py                # API handling functions
-├── static/               # Static assets (CSS, images)
-└── templates/            # HTML templates
-    ├── index.html        # Landing page
-    └── chat.html         # Chat interface
-
-Replace `"YOUR_API_KEY"` with the actual placeholder for your API key in `config.py`. Adjust any other specific details to match your project setup.
